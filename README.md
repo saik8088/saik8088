@@ -13,11 +13,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/saik8088">
-<img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-</p>
-
 </div>
 
 ---
@@ -207,22 +202,9 @@ React • Node.js • MongoDB • REST API • Maps
 
 `Backtracking` `Dynamic Programming`
 
-</div>
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saik8088&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=00F5FF"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saik8088&theme=tokyonight&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
-
 </div>
-
----
 
 # 🎯 Currently Learning
 
