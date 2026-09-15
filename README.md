@@ -24,17 +24,22 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student
-💻 Aspiring **AI & Full Stack Developer**
-🚀 Building real-world web applications and AI-powered solutions
-🧠 Strong interest in **Data Structures & Algorithms**
-🔧 Experienced with frontend, backend, databases, REST APIs and deployment
-📚 Constantly learning and building new technologies
+I’m a B.Tech Computer Science Engineering student passionate about **AI and
+Full Stack Development**. I enjoy building real-world applications, solving
+problems with code, and exploring modern technologies to create practical,
+scalable, and user-friendly solutions.
 
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Aspiring **AI & Full Stack Developer**
+- 🚀 Building real-world web applications and AI-powered solutions
+- 🧠 Solved **100+ LeetCode problems**
+- 🔧 Hands-on experience with frontend, backend, databases and REST APIs
+- ☁️ Experience with application deployment using **Vercel & Render**
+- 📚 Continuously learning and exploring new technologies
 ---
 
 # 🛠️ Tech Stack
-
+<div align="center">
 ### 💻 Languages
 
 <p>
@@ -72,6 +77,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render"/>
 </p>
+</div>
 
 ---
 
@@ -290,35 +296,7 @@ React • Node.js • MongoDB • REST API • Maps
 
 </div>
 
----
 
-# 🏆 Achievements
-
-- 🟢 Solved **100+ problems on LeetCode**
-- 🚀 Built multiple full-stack applications
-- 🤖 Built applications integrating AI technologies
-- 💻 Hands-on experience with REST APIs and authentication
-- ☁️ Deployed applications using Vercel and Render
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-### Open to internships, collaborations & exciting opportunities 🚀
-
-<br>
-
-<a href="https://github.com/saik8088">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saikrishna2210">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -329,3 +307,7 @@ React • Node.js • MongoDB • REST API • Maps
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007C91,100:00F5FF&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<div align="center">
+Thanks for dropping by! Let's build something awesome together. 🚀
+</div>
