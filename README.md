@@ -40,8 +40,13 @@ I’m a B.Tech Computer Science Engineering student passionate about **AI and Fu
 </td>
 
 <td width="30%" align="center" valign="middle">
+  
+<div style="background-color: white; padding: 15px; border-radius: 15px;">
 
-<img src="./assets/profile.png" width="280px"/>
+<img src="./assets/profile.jpg" width="250px"/>
+
+</div>
+
 
 </td>
 
