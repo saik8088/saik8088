@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:007C91&height=220&section=header&text=Sai%20Krishna&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:007C91&height=220&section=header&text=Sai%20Krishna&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=%20Full%20Stack%20Developer%20%C2%B7%20AI&descSize=18&descAlign=60&descAlignY=55&animation=fadeIn" width="100%"/>
 
 ### ⚡ Turning Ideas into Scalable Applications
 
