@@ -29,7 +29,6 @@ Full Stack Development**. I enjoy building real-world applications, solving
 problems with code, and exploring modern technologies to create practical,
 scalable, and user-friendly solutions.
 
-- 🎓 B.Tech Computer Science Engineering Student
 - 💻 Aspiring **AI & Full Stack Developer**
 - 🚀 Building real-world web applications and AI-powered solutions
 - 🧠 Solved **100+ LeetCode problems**
@@ -41,42 +40,29 @@ scalable, and user-friendly solutions.
 # 🛠️ Tech Stack
 <div align="center">
   
-Languages
-<p>
+Languages<br/>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css"/>
-</p>
 
-Frontend
 
-<p>
+Frontend<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
-</p>
 
-Backend
-
-<p>
+Backend<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
-</p>
 
-Databases
 
-<p>
+Databases<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite"/>
-</p>
 
-AI
 
-<p>
+AI<br/>
 
-`OpenAI` • `Gemini API` • `Claude` • `Hugging Face` • `Python AI Libraries`
+`OpenAI` • `Gemini API` • `Claude`  • `Python AI Libraries`
 
-</p>
 
-Tools & Deployment
-
-<p>
+Tools & Deployment<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render"/>
-</p>
+
 </div>
 
 ---
@@ -211,7 +197,7 @@ React • Node.js • MongoDB • REST API • Maps
 
 ### 🔥 100+ LeetCode Problems Solved
 
-</div>
+
 
 ### Focus Areas
 
@@ -221,6 +207,7 @@ React • Node.js • MongoDB • REST API • Maps
 
 `Backtracking` `Dynamic Programming`
 
+</div>
 ---
 
 # 📊 GitHub Statistics
@@ -306,7 +293,7 @@ React • Node.js • MongoDB • REST API • Maps
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007C91,100:00F5FF&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007C91,100:00F5FF&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
 Thanks for dropping by! Let's build something awesome together. 🚀
