@@ -16,13 +16,16 @@
 </div>
 
 ---
-
 # 👨‍💻 About Me
 
-I’m a B.Tech Computer Science Engineering student passionate about **AI and
-Full Stack Development**. I enjoy building real-world applications, solving
-problems with code, and exploring modern technologies to create practical,
-scalable, and user-friendly solutions.
+<table>
+<tr>
+
+<td width="70%" valign="top">
+
+I’m a B.Tech Computer Science Engineering student passionate about **AI and Full Stack Development**. I enjoy building real-world applications, solving problems with code, and exploring modern technologies to create practical, scalable, and user-friendly solutions.
+
+<br>
 
 - 💻 Aspiring **AI & Full Stack Developer**
 - 🚀 Building real-world web applications and AI-powered solutions
@@ -30,6 +33,17 @@ scalable, and user-friendly solutions.
 - 🔧 Hands-on experience with frontend, backend, databases and REST APIs
 - ☁️ Experience with application deployment using **Vercel & Render**
 - 📚 Continuously learning and exploring new technologies
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img src="./assets/profile-sketch.png" width="280px"/>
+
+</td>
+
+</tr>
+</table>
 ---
 
 # 🛠️ Tech Stack
