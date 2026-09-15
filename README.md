@@ -40,31 +40,31 @@ scalable, and user-friendly solutions.
 
 # 🛠️ Tech Stack
 <div align="center">
-💻 Languages
-
+  
+Languages
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css"/>
 </p>
 
-### ⚛️ Frontend
+Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
 </p>
 
-### ⚙️ Backend
+Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
 </p>
 
-### 🗄️ Databases
+Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite"/>
 </p>
 
-### 🤖 AI
+AI
 
 <p>
 
@@ -72,7 +72,7 @@ scalable, and user-friendly solutions.
 
 </p>
 
-### ☁️ Tools & Deployment
+Tools & Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render"/>
