@@ -47,7 +47,6 @@ I’m a B.Tech Computer Science Engineering student passionate about **AI and Fu
 
 </div>
 
-
 </td>
 
 </tr>
