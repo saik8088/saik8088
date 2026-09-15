@@ -1,164 +1,212 @@
 <div align="center">
 
-# 👋 Hi, I'm Sai Krishna Jallu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:007C91&height=220&section=header&text=Sai%20Krishna&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=22&animation=fadeIn"/>
 
-### AI/ML • Full Stack Developer
+### ⚡ Turning Ideas into Scalable Applications
 
-Building practical applications with **AI, Full Stack Development & Modern Web Technologies**
-
-<p>
-  <a href="https://github.com/saik8088">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saik8088)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saikrishna2210)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](Sai2210)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 B.Tech Computer Science Engineering Student
 
-💻 Aspiring **AI/ML Full Stack Developer**
+💻 Aspiring **AI & Full Stack Developer**
 
-🧠 Solving **Data Structures & Algorithms**
+🚀 Building real-world web applications and AI-powered solutions
 
-🔥 Building real-world full-stack applications
+🧠 Strong interest in **Data Structures & Algorithms**
 
-🤖 Interested in **AI, Machine Learning & Generative AI**
+🔧 Experienced with frontend, backend, databases, REST APIs and deployment
 
-📚 Currently improving my skills in **React, Node.js, Python & AI/ML**
+📚 Constantly learning and building new projects
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
 </p>
 
-### 🤖 AI / ML
+### 🤖 AI
 
-<p>
-
-`Python` • `OpenAI API` • `Gemini API` • `Hugging Face` • `Machine Learning`
-
-</p>
+`OpenAI` • `Gemini API` • `Claude` • `Hugging Face` • `Python AI Libraries`
 
 ### ☁️ Tools & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Subscription Cost Analyzer
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Links</th>
+</tr>
 
-AI subscription tracking and cost analysis platform for managing monthly and yearly AI subscriptions.
+<tr>
+<td>
 
-**Tech:** Python • Flask • HTML • CSS • JavaScript • SQLite • Vercel
+### 🤖 AI Subscription Cost Analyzer
 
-🔗 **Repository:**  
-https://github.com/saik8088/ai-subscription-analyzer
+</td>
+<td>
 
----
+Track and analyze AI subscriptions with monthly and yearly cost insights.
 
-## 🚗 RideEasy – Vehicle Rental Platform
+</td>
+<td>
 
-Full-stack vehicle rental platform connecting users, vehicle providers and administrators.
+Python • Flask • HTML • CSS • JavaScript • SQLite
 
-**Features:**
-- 🔐 JWT Authentication
-- 👥 Role-based access
-- 🚘 Vehicle booking
-- 💳 Online payments
-- 📊 Multiple dashboards
-- ☁️ Cloud image management
-- 🔌 REST APIs
+</td>
+<td>
 
-**Tech:** React • Node.js • MongoDB • JWT • REST API • Vercel • Render
+<a href="https://github.com/saik8088/ai-subscription-analyzer">Repo ↗</a>
 
-🔗 **Repository:**  
-https://github.com/saik8088/vehicle-rental-platform
+<br>
 
----
+<a href="https://ai-subscription-analyzer-1lid.vercel.app/dashboard">Live ↗</a>
 
-## 🌱 TerraScan – Soil Intelligence Platform
+</td>
+</tr>
 
-Smart soil analysis platform providing crop recommendations using soil parameters such as **N, P, K and pH**.
+<tr>
+<td>
 
-**Tech:** Python • Machine Learning • Web Technologies
+### 🚗 RideEasy
 
-🔗 **Repository:**  
-https://github.com/YugaVardhan1103/Soil-Analyzer
+</td>
+<td>
 
----
+Full-stack vehicle rental platform for users, providers and administrators.
 
-## 🍱 FEEDNOW – Food Rescue Platform
+</td>
+<td>
 
-### *Right Food. Right Place. Right Time.*
+React • Node.js • MongoDB • JWT • REST API
 
-A real-time food rescue platform connecting surplus food donors with nearby NGOs.
+</td>
+<td>
 
-**Key Features:**
-- 🍽️ Food donation
-- 🏢 NGO verification
-- 📍 Location-based matching
-- 🚚 Delivery tracking
-- 📊 Donor & NGO dashboards
-- ⚡ Real-time food availability
+<a href="https://github.com/saik8088/vehicle-rental-platform">Repo ↗</a>
+
+<br>
+
+<a href="https://rideeasy-rkl3.onrender.com">Live ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌱 TerraScan
+
+</td>
+<td>
+
+Soil intelligence platform providing crop recommendations using soil parameters.
+
+</td>
+<td>
+
+Python • AI • Dashboard • Web Technologies
+
+</td>
+<td>
+
+<a href="https://github.com/YugaVardhan1103/Soil-Analyzer">Repo ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🍱 FEEDNOW
+
+</td>
+<td>
+
+Real-time food rescue platform connecting surplus food donors with nearby NGOs.
+
+</td>
+<td>
+
+React • Node.js • MongoDB • REST API • Maps
+
+</td>
+<td>
+
+🚧 In Development
+
+</td>
+</tr>
+
+</table>
 
 ---
 
 # 🧠 DSA & Problem Solving
 
-🏆 **100+ LeetCode Problems Solved**
+<div align="center">
 
-Currently practicing:
+## 🔥 100+ LeetCode Problems Solved
 
-`Arrays` • `Strings` • `Linked Lists` • `Recursion` • `Backtracking`
+</div>
 
-`Binary Search` • `Sorting` • `Trees` • `Graphs` • `Dynamic Programming`
+### Focus Areas
+
+`Arrays` `Strings` `Linked Lists` `Trees`
+
+`Graphs` `Binary Search` `Sorting` `Recursion`
+
+`Backtracking` `Dynamic Programming`
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saik8088&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saik8088&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=00F5FF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saik8088&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saik8088&theme=tokyonight&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
 
 </div>
 
@@ -168,17 +216,17 @@ Currently practicing:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saik8088&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saik8088&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saik8088&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saik8088&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -188,13 +236,15 @@ Currently practicing:
 
 ```text
 React.js
-     ↓
+   ↓
 Node.js & Express
-     ↓
-MongoDB & PostgreSQL
-     ↓
-AI / ML
-     ↓
+   ↓
+MongoDB
+   ↓
+REST APIs
+   ↓
+AI Integration
+   ↓
 Generative AI
-     ↓
+   ↓
 AI-Powered Full Stack Applications
