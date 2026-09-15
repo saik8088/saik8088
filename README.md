@@ -41,7 +41,7 @@ I’m a B.Tech Computer Science Engineering student passionate about **AI and Fu
 
 <td width="30%" align="center" valign="middle">
 
-<img src="./assets/profile-sketch.png" width="280px"/>
+<img src="./assets/profile.png" width="280px"/>
 
 </td>
 
