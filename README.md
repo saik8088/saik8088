@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:007C91&height=220&section=header&text=Sai%20Krishna&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:007C91&height=220&section=header&text=Sai%20Krishna&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
 
 ### ⚡ Turning Ideas into Scalable Applications
 
@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="mailto:saik80889@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 ---
@@ -44,6 +47,7 @@ I’m a B.Tech Computer Science Engineering student passionate about **AI and Fu
 
 </tr>
 </table>
+
 ---
 
 # 🛠️ Tech Stack
