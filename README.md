@@ -40,7 +40,7 @@ scalable, and user-friendly solutions.
 
 # 🛠️ Tech Stack
 <div align="center">
-### 💻 Languages
+💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css"/>
