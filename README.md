@@ -17,6 +17,10 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/Sai2210/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 <a href="https://protifolio-sai.lovable.app">
 <img src="https://img.shields.io/badge/Protfolio-007C91?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
