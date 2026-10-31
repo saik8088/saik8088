@@ -66,18 +66,31 @@ I’m a B.Tech Computer Science Engineering student passionate about **AI and Fu
 <div align="center">
   
 Languages<br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS"/>
 
 
 Frontend<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js"/>
+<img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite"/>
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS"/>
 
 Backend<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express" title="Express" alt="Express"/>
+<img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask"/>
 
 
 Databases<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" alt="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite"/>
 
 
 AI<br/>
@@ -86,7 +99,11 @@ AI<br/>
 
 
 Tools & Deployment<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel"/>
+<img src="https://skillicons.dev/icons?i=render" title="Render" alt="Render"/>
 
 </div>
 
