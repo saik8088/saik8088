@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://protifolio-sai.lovable.app">
-<img src="https://img.shields.io/badge/CV-007C91?style=for-the-badge&logo=readme&logoColor=white"/>
+<img src="https://img.shields.io/badge/Protfolio-007C91?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 </div>
 
