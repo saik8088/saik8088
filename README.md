@@ -16,6 +16,10 @@
 <a href="mailto:saik80889@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://protifolio-sai.lovable.app">
+<img src="https://img.shields.io/badge/CV-007C91?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
 </div>
 
 ---
